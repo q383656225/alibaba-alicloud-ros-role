@@ -7,7 +7,7 @@ Role Description
 Requirements
 ------------
 
-Before you use this role, you must install below, like this 'pip3 install ansible-alicloud':
+Before you use this role, you must install below, like this 'pip3 install ansible-alicloud', About the use of ansible-alicloud, see: https://github.com/alibaba/alibaba.alicloud:
 - ansible-alicloud
 
 Role Variables
